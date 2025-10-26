@@ -79,7 +79,27 @@ You can generate these in your Razorpay Dashboard → Settings → API Keys.
 (Add a screenshot or GIF of your payment interface here)
 
 <img width="616" height="862" alt="Screenshot 2025-10-26 175921-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/d222a720-526c-46f9-876c-5a9f39214b0c" />
+
+
+
+
+
+
+
+
+
 <img width="1574" height="1352" alt="Screenshot 2025-10-26 180139-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/7c7e8532-916d-41fa-bcda-c55dbc35f9d5" />
+
+
+
+
+
+
+
+
+
+
+
 <img width="453" height="307" alt="Screenshot 2025-10-26 180234" src="https://github.com/user-attachments/assets/764e4649-b7da-4b83-ac32-5d43668e1c66" />
 
 
