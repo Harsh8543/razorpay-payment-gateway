@@ -93,5 +93,3 @@ yaml
 Copy code
 
 ---
-
-Chaaho to main iska **React-based version** ke hisaab se thoda modify karke likh du (jaise frontend
